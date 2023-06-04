@@ -1,7 +1,5 @@
 **Aref Hashemi**
 
-This Python (Jupyter Notebook) repository includes practice machine learning projects.
-
-**SupervisedML-LinearLogistic** and **DeepLearining-NeuralNetworks-DecisionTrees** include my version of the examples and practice labs from the **Machine Learning Specialization** course series on coursera by Andrew Ng. **Definitely recommended! Great course!**  
+**coursera** includes my version of the examples and practice labs from the **Machine Learning Specialization** and **Deep Learning Specialization** course series on coursera by Andrew Ng. **Definitely recommended! Great courses!**  
 
 **kaggle** includes projects from kaggle.com.
