@@ -2,8 +2,7 @@
 
 ## Alzheimer: Data analysis and ML models:  
 ### Sequential CNN
-### Functional CNN
-### MobileNetV2 by Transfer Learning
+### Tranfer Learning (InceptionV3) 
 
 Please see the Jupyter Notebook alzheimer.ipynb for details. The coressponding dataset (excluded here) is available at  
 
