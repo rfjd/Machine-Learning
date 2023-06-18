@@ -1,2 +1,4 @@
+*~
 stuff/
 .ipynb_checkpoints/
+*.h5
