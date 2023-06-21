@@ -1,1 +1,4 @@
-Alpaca-dataset/
+*.h5
+AlpacaNotAlpaca_MobileNetV2/Alpaca-dataset/
+Car-Detection-YOLOv2/font/
+Car-Detection-YOLOv2/yad2k/
