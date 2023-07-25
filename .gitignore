@@ -1,6 +1,5 @@
 *~
 stuff/
 .ipynb_checkpoints/
-course-projects/DLSpecialization/DLS-Sequence-Models/Music-generation
 *.h5
 __pycache__
